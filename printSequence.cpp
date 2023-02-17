@@ -1,7 +1,7 @@
 // CSCI 1300 Spring 2023
 //Author: Jeremiah Heredia
 //Recitation: 102- Tuan Tran
-// Homework 4 Problem 1
+// Homework 4 Problem 2
 
 #include <iostream>
 using namespace std;
